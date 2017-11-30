@@ -51,6 +51,14 @@ Raises:
 
 Write a level 2 (ERROR) message to the file.
 
+Parameters:
+
+* ``message``: The message to write to the file.
+
+Returns:
+
+* ``None``
+
 |
 |
 
@@ -58,12 +66,28 @@ Write a level 2 (ERROR) message to the file.
 
 Write a level 0 (INFO) message to the file.
 
+Parameters:
+
+* ``message``: The message to write to the file.
+
+Returns:
+
+* ``None``
+
 |
 |
 
 ``warning(message)``:
 
 Write a level 1 (WARNING) message to the file.
+
+Parameters:
+
+* ``message``: The message to write to the file.
+
+Returns:
+
+* ``None``
 
 |
 |
